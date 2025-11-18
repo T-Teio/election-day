@@ -12,7 +12,7 @@ body {
 
 /* TODO: Style the nav element */
 nav {
-    background-color: #1959a8;
+    background-color: darkred;
     padding: 2rem;
 }
 
@@ -59,7 +59,7 @@ nav {
     display: block;
     /* Add any other styling */
     border-radius: 5px;
-    background-color: navy;
+    background-color: #051094;
 }
 .nav-menu li {
     margin: 1.5rem;
